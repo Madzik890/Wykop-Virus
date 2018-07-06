@@ -266,4 +266,4 @@ __pycache__/
 *.pyc
 
 #File with passwords
-*Source/Timer.cpp
+/Source/Timer.cpp
